@@ -40,6 +40,7 @@ import { defineConfig } from 'vitepress'
 import { set_sidebar } from "../.vitepress/utils/auto_sidebar.mjs"; // 改成自己的路径
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/docs-demo/',
   head: [["link", { rel: "icon", href: "/logo.png" }]], //美化地址栏icon
   title: "我的博客项目",
   description: "A VitePress Site",
