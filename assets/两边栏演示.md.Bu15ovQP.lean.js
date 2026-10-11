@@ -1,1 +1,0 @@
-import{_t as e,it as t,n,rt as r}from"./chunks/framework.DT-K2g6T.js";var i=JSON.parse(`{"title":"两边栏的一级标题","description":"","frontmatter":{},"headers":[],"relativePath":"两边栏演示.md","filePath":"两边栏演示.md"}`),a={name:`两边栏演示.md`};function o(n,i,a,o,s,c){return e(),r(`div`,null,[...i[0]||=[t("",6)]])}var s=n(a,[[`render`,o]]);export{i as __pageData,s as default};

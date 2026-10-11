@@ -1,0 +1,1 @@
+import{_t as e,n as t,rt as n}from"./chunks/framework.BJvQKzTo.js";var r=JSON.parse(`{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/android/index.md","filePath":"frontend/android/index.md"}`),i={name:`frontend/android/index.md`};function a(t,r,i,a,o,s){return e(),n(`div`)}var o=t(i,[[`render`,a]]);export{r as __pageData,o as default};

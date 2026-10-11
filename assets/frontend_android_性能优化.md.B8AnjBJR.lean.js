@@ -1,1 +1,0 @@
-import{_t as e,n as t,rt as n}from"./chunks/framework.DT-K2g6T.js";var r=JSON.parse(`{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/android/性能优化.md","filePath":"frontend/android/性能优化.md"}`),i={name:`frontend/android/性能优化.md`};function a(t,r,i,a,o,s){return e(),n(`div`)}var o=t(i,[[`render`,a]]);export{r as __pageData,o as default};
