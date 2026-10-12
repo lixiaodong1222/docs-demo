@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: 特征1的详细描述
-  - title: Feature B
-    details: 特征2的详细描述
-  - title: Feature C
-    details: 特征3的详细描述
+  - title: 思考
+    details: 多问为什么，拒绝被动接收
+  - title: 努力
+    details: 脚踏实地，重在有效输出
+  - title: 坚持
+    details: 做一件事就坚持做下去
 ---
 
