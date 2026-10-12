@@ -11,11 +11,11 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: Markdown 示例
+      text: Agent
       link: https://www.baidu.com
-    - theme: alt
-      text: API 示例
-      link: /api-examples
+    # - theme: alt
+    #   text: API 示例
+    #   link: /api-examples
 
 features:
   - title: 思考
