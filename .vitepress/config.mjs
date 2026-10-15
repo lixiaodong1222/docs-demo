@@ -26,7 +26,7 @@ export default defineConfig({
       // { text: '两边栏演示', link: '/两边栏演示' },
         { text: 'Python', items: [
         { text: 'Python基础', link: '/backend/python/基础' },
-        { text: 'PythonWeb', link: '/backend/python/PythonWeb' },
+        { text: 'PythonWeb', link: '/backend/python/pythonWeb' },
         { text: 'AI大模型', link: '/backend/python/AIAgent' },
         { text: '爬虫', link: '/backend/python/' },
       ] },
