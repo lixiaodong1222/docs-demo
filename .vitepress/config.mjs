@@ -22,6 +22,7 @@ export default defineConfig({
       // { text: '示例', link: '/markdown-examples' },
       { text: 'Python', link: '/backend/python/' },
       { text: 'Android', link: '/frontend/android/' },
+      { text: '其它', link: '/other/' },
       
       //  { text: '首页', link: '/' },
       // { text: '两边栏演示', link: '/两边栏演示' },
