@@ -20,24 +20,31 @@ export default defineConfig({
       //   { text: 'Markdown示例', link: '/markdown-examples' },
       // ] },
       // { text: '示例', link: '/markdown-examples' },
-      // { text: '自动生成侧边栏', link: '/frontend/android/' },
-      // { text: '自动生成侧边栏2', link: '/backend/python/' },
+      { text: 'Python', link: '/backend/python/' },
+      { text: 'Android', link: '/frontend/android/' },
+      
       //  { text: '首页', link: '/' },
       // { text: '两边栏演示', link: '/两边栏演示' },
-        { text: 'Python', items: [
-        { text: 'Python基础', link: '/backend/python/基础' },
-        { text: 'PythonWeb', link: '/backend/python/pythonWeb' },
-        { text: 'AI大模型', link: '/backend/python/AIAgent' },
-        { text: '爬虫', link: '/backend/python/' },
-      ] },
-        { text: 'Android', items: [
-        { text: 'FrameWork', link: '/frontend/android/framework' },
-        { text: '性能优化', link: '/frontend/android/性能优化' },
-        { text: '协程', link: '/frontend/android/协程' },
-        { text: '框架', link: '/frontend/android/' },
-        { text: 'Jetpack', link: '/frontend/android/jetpack/' },
-        { text: '基础', link: '/frontend/android/基础/' },
-      ] },
+       
+
+      //   { text: 'Python', items: [
+      //   { text: 'Python基础', link: '/backend/python/基础' },
+      //   { text: 'PythonWeb', link: '/backend/python/pythonWeb' },
+      //   { text: 'AI大模型', link: '/backend/python/AIAgent' },
+      //   { text: '爬虫', link: '/backend/python/' },
+      // ] },
+      //   { text: 'Android', items: [
+      //   { text: 'FrameWork', link: '/frontend/android/framework' },
+      //   { text: '性能优化', link: '/frontend/android/性能优化' },
+      //   { text: '协程', link: '/frontend/android/协程' },
+      //   { text: '框架', link: '/frontend/android/' },
+      //   // { text: 'Jetpack', link: '/frontend/android/jetpack/' },
+      //   { text: 'Jetpack', items: [
+      //     { text: 'compose', link: '/frontend/android/jetpack/compose/' },
+      //     { text: 'Jetpack组件', link: '/frontend/android/jetpack' },
+      //   ] },
+      //   { text: '基础', link: '/frontend/android/基础/' },
+      // ] },
       
     ],
     // 三栏
