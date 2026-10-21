@@ -55,6 +55,8 @@ export default defineConfig({
     //   "/frontend/android/": set_sidebar("frontend/android"),
     //   "/backend/python/": set_sidebar("backend/python"),
     // },
+
+
     // 两栏
     sidebar: false, // 关闭默认侧边栏
     aside:"left", // 右侧边栏在左侧显示
