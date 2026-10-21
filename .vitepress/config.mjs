@@ -3,11 +3,11 @@ import { set_sidebar } from "../.vitepress/utils/auto_sidebar.mjs"; // 改成自
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/docs-demo/',
-  head: [["link", { rel: "icon", href: "/logo.png" }]], //美化地址栏icon
-  title: "我的博客项目",
-  description: "A VitePress Site",
+  head: [["link", { rel: "icon", href: "/docs-demo/logo.png" }]], //美化地址栏icon
+  title: "我的博客",  // 博客标题
+  description: "SEO优化使用",
   themeConfig: {
-    outline: { // 右侧大纲
+    outline: { // 右侧大纲级别
       level: [2, 6],
       label: "目录",
       expand: true,
@@ -22,7 +22,9 @@ export default defineConfig({
       // { text: '示例', link: '/markdown-examples' },
       { text: 'Python', link: '/backend/python/' },
       { text: 'Android', link: '/frontend/android/' },
-      { text: '其它', link: '/other/' },
+      { text: '其它', items: [
+        { text: 'vitepress搭建并部署网站', link: '/other/' },
+      ] },
       
       //  { text: '首页', link: '/' },
       // { text: '两边栏演示', link: '/两边栏演示' },
